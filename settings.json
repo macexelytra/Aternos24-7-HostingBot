@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "RedMonster3606.aternos.me",
+    "port": 31628,
     "version": "",
     "try-creative": false
   },
